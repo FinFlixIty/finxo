@@ -1,7 +1,7 @@
 {
   "name": "finxo",
   "version": "0.1.0",
-  "homepage": "https://aviraj5121.github.io/finxo/",
+  "homepage": "https://FinFlixIty.github.io/finxo/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

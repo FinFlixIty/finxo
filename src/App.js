@@ -11,7 +11,7 @@
         <Header />
       </div>
       <Routes>
-        <Route path='/finxo' element={<Main />} />
+        <Route path='/' element={<Main />} />
         <Route path = "/about" element={ <Aboutus/>}/>
         <Route path = "/blog" element={ <Blog/>}/>
       </Routes>
