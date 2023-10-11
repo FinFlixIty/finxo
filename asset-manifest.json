@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/finxo/static/css/main.caaea2e7.css",
-    "main.js": "/finxo/static/js/main.75c8b02b.js",
+    "main.js": "/finxo/static/js/main.00f0ae12.js",
     "static/js/787.44bb3704.chunk.js": "/finxo/static/js/787.44bb3704.chunk.js",
     "static/media/blog.avif": "/finxo/static/media/blog.0208c4b0fb3b63e7898f.avif",
     "index.html": "/finxo/index.html",
     "main.caaea2e7.css.map": "/finxo/static/css/main.caaea2e7.css.map",
-    "main.75c8b02b.js.map": "/finxo/static/js/main.75c8b02b.js.map",
+    "main.00f0ae12.js.map": "/finxo/static/js/main.00f0ae12.js.map",
     "787.44bb3704.chunk.js.map": "/finxo/static/js/787.44bb3704.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.caaea2e7.css",
-    "static/js/main.75c8b02b.js"
+    "static/js/main.00f0ae12.js"
   ]
 }
