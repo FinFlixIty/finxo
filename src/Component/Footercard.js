@@ -33,7 +33,7 @@ export default function Footercard() {
 				</div> 
 			</div> 
 			<div class=" mr-36 w-96 text-center float-right 
-						-mt-11 w-1/3 flex-col rounded-xl 
+						-mt-11  flex-col rounded-xl 
 						bg-white text-gray-700 shadow-2xl"> 
 				<div className="p-6 "> 
 					<h5 className="mb-2 block font-sans 
